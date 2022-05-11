@@ -1,3 +1,13 @@
+# Idea files
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+
+# Aditional files
+Laboratorio1-Github.iml
+WrongFile.txt
+
 # Compiled class file
 *.class
 
