@@ -24,3 +24,6 @@ hs_err_pid*
 
 Laboratorio1-Github.iml
 WrongFile.txt
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
